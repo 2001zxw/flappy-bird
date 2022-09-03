@@ -1,4 +1,4 @@
-# flybird
+# flappybird
 #### 用到的框架与方法库
 express框架，jQuery，bootstrap@3
 
